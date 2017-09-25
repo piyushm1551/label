@@ -1,0 +1,19 @@
+{
+  "name": "topiyush",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deutschepost.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base64-img": "^1.0.3",
+    "bwip-js": "^1.5.6",
+    "canvas": "^1.6.7",
+    "google-fonts": "^1.0.0",
+    "jsbarcode": "^3.8.0",
+    "pdfkit": "^0.8.3"
+  }
+}
